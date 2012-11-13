@@ -1,6 +1,7 @@
-jQuery(function () {
+jQuery(function($) {
 	$("#wpadminbar")
 		.css({'margin-top': '-25px', 'cursor': 'pointer'});
+
 	var timeout = null;
 
 	$("#wpadminbar").hover(function () {

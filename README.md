@@ -1,4 +1,4 @@
-Show/Hide Admin Bar
+Show/Hide Admin Bar [![Build Status](https://secure.travis-ci.org/alexsancho/show-hide-admin-bar.png)](http://travis-ci.org/alexsancho/show-hide-admin-bar)
 ===================
 
 * __Contributors__: Alex Sancho
@@ -24,5 +24,5 @@ Installation
 Changelog
 ---------
 
-* 1.0 
+* 1.0
 	* First release
